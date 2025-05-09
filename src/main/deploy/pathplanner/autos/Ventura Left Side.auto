@@ -1,0 +1,97 @@
+{
+  "version": "2025.0",
+  "command": {
+    "type": "sequential",
+    "data": {
+      "commands": [
+        {
+          "type": "path",
+          "data": {
+            "pathName": "Three Coral - 1"
+          }
+        },
+        {
+          "type": "wait",
+          "data": {
+            "waitTime": 0.175
+          }
+        },
+        {
+          "type": "named",
+          "data": {
+            "name": "Left L4"
+          }
+        },
+        {
+          "type": "named",
+          "data": {
+            "name": "Reset Fast"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "Three Coral - 2"
+          }
+        },
+        {
+          "type": "named",
+          "data": {
+            "name": "Left Human Player"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "Three Coral - 3"
+          }
+        },
+        {
+          "type": "named",
+          "data": {
+            "name": "Left L4"
+          }
+        },
+        {
+          "type": "named",
+          "data": {
+            "name": "Reset Fast"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "Three Coral - 4"
+          }
+        },
+        {
+          "type": "named",
+          "data": {
+            "name": "Left Human Player"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "Three Coral - 5"
+          }
+        },
+        {
+          "type": "named",
+          "data": {
+            "name": "Right L4"
+          }
+        },
+        {
+          "type": "named",
+          "data": {
+            "name": "Reset Fast"
+          }
+        }
+      ]
+    }
+  },
+  "resetOdom": true,
+  "folder": null,
+  "choreoAuto": false
+}

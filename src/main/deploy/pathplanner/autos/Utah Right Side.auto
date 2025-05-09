@@ -1,0 +1,97 @@
+{
+  "version": "2025.0",
+  "command": {
+    "type": "sequential",
+    "data": {
+      "commands": [
+        {
+          "type": "path",
+          "data": {
+            "pathName": "Utah Right - 1"
+          }
+        },
+        {
+          "type": "wait",
+          "data": {
+            "waitTime": 0.2
+          }
+        },
+        {
+          "type": "named",
+          "data": {
+            "name": "Utah Left L4"
+          }
+        },
+        {
+          "type": "named",
+          "data": {
+            "name": "Reset Fast"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "Utah Right - 2"
+          }
+        },
+        {
+          "type": "named",
+          "data": {
+            "name": "Utah Right Human Player"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "Utah Right - 3"
+          }
+        },
+        {
+          "type": "named",
+          "data": {
+            "name": "Utah Left L4"
+          }
+        },
+        {
+          "type": "named",
+          "data": {
+            "name": "Reset Fast"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "Utah Right - 4"
+          }
+        },
+        {
+          "type": "named",
+          "data": {
+            "name": "Utah Right Human Player"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "Utah Right - 5"
+          }
+        },
+        {
+          "type": "named",
+          "data": {
+            "name": "Utah Right L4"
+          }
+        },
+        {
+          "type": "named",
+          "data": {
+            "name": "Reset Fast"
+          }
+        }
+      ]
+    }
+  },
+  "resetOdom": true,
+  "folder": null,
+  "choreoAuto": false
+}

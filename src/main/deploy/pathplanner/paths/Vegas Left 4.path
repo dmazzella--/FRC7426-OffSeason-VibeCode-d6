@@ -1,0 +1,54 @@
+{
+  "version": "2025.0",
+  "waypoints": [
+    {
+      "anchor": {
+        "x": 3.6370065789473682,
+        "y": 5.121875
+      },
+      "prevControl": null,
+      "nextControl": {
+        "x": 2.45636469836394,
+        "y": 5.796808239483033
+      },
+      "isLocked": false,
+      "linkedName": null
+    },
+    {
+      "anchor": {
+        "x": 1.876233552631579,
+        "y": 6.786430921052631
+      },
+      "prevControl": {
+        "x": 2.765392129692858,
+        "y": 5.504578912968604
+      },
+      "nextControl": null,
+      "isLocked": false,
+      "linkedName": null
+    }
+  ],
+  "rotationTargets": [],
+  "constraintZones": [],
+  "pointTowardsZones": [],
+  "eventMarkers": [],
+  "globalConstraints": {
+    "maxVelocity": 9.0,
+    "maxAcceleration": 9.0,
+    "maxAngularVelocity": 540.0,
+    "maxAngularAcceleration": 720.0,
+    "nominalVoltage": 12.0,
+    "unlimited": false
+  },
+  "goalEndState": {
+    "velocity": 0,
+    "rotation": 127.58536970902527
+  },
+  "reversed": false,
+  "folder": "Vegas Left",
+  "idealStartingState": {
+    "velocity": 0,
+    "rotation": -57.5876933816488
+  },
+  "useDefaultConstraints": false
+}

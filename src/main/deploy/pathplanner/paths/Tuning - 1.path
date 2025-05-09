@@ -1,0 +1,54 @@
+{
+  "version": "2025.0",
+  "waypoints": [
+    {
+      "anchor": {
+        "x": 1.5,
+        "y": 6.864854452054795
+      },
+      "prevControl": null,
+      "nextControl": {
+        "x": 2.4999999999999996,
+        "y": 6.864854452054795
+      },
+      "isLocked": false,
+      "linkedName": "Tuning close"
+    },
+    {
+      "anchor": {
+        "x": 5.0057386363636365,
+        "y": 6.864854452054795
+      },
+      "prevControl": {
+        "x": 4.0057386363636365,
+        "y": 6.864854452054795
+      },
+      "nextControl": null,
+      "isLocked": false,
+      "linkedName": "Tuning Far"
+    }
+  ],
+  "rotationTargets": [],
+  "constraintZones": [],
+  "pointTowardsZones": [],
+  "eventMarkers": [],
+  "globalConstraints": {
+    "maxVelocity": 4.24,
+    "maxAcceleration": 4.24,
+    "maxAngularVelocity": 540.0,
+    "maxAngularAcceleration": 720.0,
+    "nominalVoltage": 12.0,
+    "unlimited": false
+  },
+  "goalEndState": {
+    "velocity": 0,
+    "rotation": 0.0
+  },
+  "reversed": false,
+  "folder": null,
+  "idealStartingState": {
+    "velocity": 0,
+    "rotation": 0.0
+  },
+  "useDefaultConstraints": true
+}

@@ -1,0 +1,54 @@
+{
+  "version": "2025.0",
+  "waypoints": [
+    {
+      "anchor": {
+        "x": 5.484375,
+        "y": 5.918236301369863
+      },
+      "prevControl": null,
+      "nextControl": {
+        "x": 4.853628158342409,
+        "y": 6.071063446111519
+      },
+      "isLocked": false,
+      "linkedName": "Utah 22 - RED"
+    },
+    {
+      "anchor": {
+        "x": 2.2129934210526314,
+        "y": 6.75
+      },
+      "prevControl": {
+        "x": 1.8043000523937596,
+        "y": 6.855346890783329
+      },
+      "nextControl": null,
+      "isLocked": false,
+      "linkedName": "Utah Human 1 - RED"
+    }
+  ],
+  "rotationTargets": [],
+  "constraintZones": [],
+  "pointTowardsZones": [],
+  "eventMarkers": [],
+  "globalConstraints": {
+    "maxVelocity": 4.24,
+    "maxAcceleration": 4.24,
+    "maxAngularVelocity": 540.0,
+    "maxAngularAcceleration": 720.0,
+    "nominalVoltage": 12.0,
+    "unlimited": false
+  },
+  "goalEndState": {
+    "velocity": 0,
+    "rotation": -121.55
+  },
+  "reversed": false,
+  "folder": "Utah Left",
+  "idealStartingState": {
+    "velocity": 0,
+    "rotation": -121.55
+  },
+  "useDefaultConstraints": true
+}

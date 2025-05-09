@@ -1,0 +1,54 @@
+{
+  "version": "2025.0",
+  "waypoints": [
+    {
+      "anchor": {
+        "x": 1.707057119205298,
+        "y": 0.9232408940397352
+      },
+      "prevControl": null,
+      "nextControl": {
+        "x": 2.0959491646598436,
+        "y": 1.1027295304033713
+      },
+      "isLocked": false,
+      "linkedName": "Human Player Left 2"
+    },
+    {
+      "anchor": {
+        "x": 3.726469370860927,
+        "y": 1.8748344370860923
+      },
+      "prevControl": {
+        "x": 2.6223302980132446,
+        "y": 1.133899006622515
+      },
+      "nextControl": null,
+      "isLocked": false,
+      "linkedName": null
+    }
+  ],
+  "rotationTargets": [],
+  "constraintZones": [],
+  "pointTowardsZones": [],
+  "eventMarkers": [],
+  "globalConstraints": {
+    "maxVelocity": 9.0,
+    "maxAcceleration": 9.0,
+    "maxAngularVelocity": 540.0,
+    "maxAngularAcceleration": 720.0,
+    "nominalVoltage": 12.0,
+    "unlimited": true
+  },
+  "goalEndState": {
+    "velocity": 0,
+    "rotation": 62.0
+  },
+  "reversed": false,
+  "folder": "Optimized Three Coral Paths",
+  "idealStartingState": {
+    "velocity": 0,
+    "rotation": -130.0
+  },
+  "useDefaultConstraints": false
+}

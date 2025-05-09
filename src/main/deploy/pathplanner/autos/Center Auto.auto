@@ -1,0 +1,109 @@
+{
+  "version": "2025.0",
+  "command": {
+    "type": "sequential",
+    "data": {
+      "commands": [
+        {
+          "type": "path",
+          "data": {
+            "pathName": "Center Path - 1"
+          }
+        },
+        {
+          "type": "named",
+          "data": {
+            "name": "Pipeline Center"
+          }
+        },
+        {
+          "type": "named",
+          "data": {
+            "name": "Vegas Left L4"
+          }
+        },
+        {
+          "type": "named",
+          "data": {
+            "name": "Reset"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "Center Path - 2"
+          }
+        },
+        {
+          "type": "named",
+          "data": {
+            "name": "Center Algae Low"
+          }
+        },
+        {
+          "type": "named",
+          "data": {
+            "name": "Reset Algae"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "Center Path - 3"
+          }
+        },
+        {
+          "type": "named",
+          "data": {
+            "name": "Barge Back"
+          }
+        },
+        {
+          "type": "named",
+          "data": {
+            "name": "Reset"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "Center Path - 4"
+          }
+        },
+        {
+          "type": "named",
+          "data": {
+            "name": "Center Algae High"
+          }
+        },
+        {
+          "type": "named",
+          "data": {
+            "name": "Reset Algae"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "Center Path - 5"
+          }
+        },
+        {
+          "type": "named",
+          "data": {
+            "name": "Barge Back"
+          }
+        },
+        {
+          "type": "named",
+          "data": {
+            "name": "Reset"
+          }
+        }
+      ]
+    }
+  },
+  "resetOdom": true,
+  "folder": null,
+  "choreoAuto": false
+}

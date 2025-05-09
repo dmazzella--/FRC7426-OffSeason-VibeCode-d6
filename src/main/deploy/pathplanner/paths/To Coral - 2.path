@@ -1,0 +1,54 @@
+{
+  "version": "2025.0",
+  "waypoints": [
+    {
+      "anchor": {
+        "x": 1.85,
+        "y": 1.2
+      },
+      "prevControl": null,
+      "nextControl": {
+        "x": 2.1624650656257107,
+        "y": 1.4893361947659423
+      },
+      "isLocked": false,
+      "linkedName": "Human Player Left"
+    },
+    {
+      "anchor": {
+        "x": 3.312,
+        "y": 2.25
+      },
+      "prevControl": {
+        "x": 2.164276490066225,
+        "y": 1.4436879139072851
+      },
+      "nextControl": null,
+      "isLocked": false,
+      "linkedName": "Id 17 L"
+    }
+  ],
+  "rotationTargets": [],
+  "constraintZones": [],
+  "pointTowardsZones": [],
+  "eventMarkers": [],
+  "globalConstraints": {
+    "maxVelocity": 9.0,
+    "maxAcceleration": 9.0,
+    "maxAngularVelocity": 540.0,
+    "maxAngularAcceleration": 720.0,
+    "nominalVoltage": 12.0,
+    "unlimited": true
+  },
+  "goalEndState": {
+    "velocity": 0,
+    "rotation": 53.914926957147884
+  },
+  "reversed": false,
+  "folder": "Optimized Three Coral Paths",
+  "idealStartingState": {
+    "velocity": 0,
+    "rotation": -130.0
+  },
+  "useDefaultConstraints": false
+}

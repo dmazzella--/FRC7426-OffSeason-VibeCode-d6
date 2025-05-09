@@ -1,0 +1,54 @@
+{
+  "version": "2025.0",
+  "waypoints": [
+    {
+      "anchor": {
+        "x": 7.14,
+        "y": 6.185
+      },
+      "prevControl": null,
+      "nextControl": {
+        "x": 5.793376756596084,
+        "y": 5.847022565742114
+      },
+      "isLocked": false,
+      "linkedName": null
+    },
+    {
+      "anchor": {
+        "x": 5.643920454545454,
+        "y": 5.6254403409090905
+      },
+      "prevControl": {
+        "x": 6.714935863919319,
+        "y": 6.104105450947238
+      },
+      "nextControl": null,
+      "isLocked": false,
+      "linkedName": "Id 20"
+    }
+  ],
+  "rotationTargets": [],
+  "constraintZones": [],
+  "pointTowardsZones": [],
+  "eventMarkers": [],
+  "globalConstraints": {
+    "maxVelocity": 4.74,
+    "maxAcceleration": 4.74,
+    "maxAngularVelocity": 540.0,
+    "maxAngularAcceleration": 720.0,
+    "nominalVoltage": 12.0,
+    "unlimited": true
+  },
+  "goalEndState": {
+    "velocity": 0.0,
+    "rotation": -123.69006752597976
+  },
+  "reversed": false,
+  "folder": "Three Coral Paths",
+  "idealStartingState": {
+    "velocity": 0,
+    "rotation": 180.0
+  },
+  "useDefaultConstraints": false
+}

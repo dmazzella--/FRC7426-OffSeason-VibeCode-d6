@@ -1,0 +1,97 @@
+{
+  "version": "2025.0",
+  "command": {
+    "type": "sequential",
+    "data": {
+      "commands": [
+        {
+          "type": "path",
+          "data": {
+            "pathName": "To Coral - 1"
+          }
+        },
+        {
+          "type": "wait",
+          "data": {
+            "waitTime": 0.175
+          }
+        },
+        {
+          "type": "named",
+          "data": {
+            "name": "Left L4"
+          }
+        },
+        {
+          "type": "named",
+          "data": {
+            "name": "Reset Fast"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "To Human - 1"
+          }
+        },
+        {
+          "type": "named",
+          "data": {
+            "name": "Right Human Player"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "To Coral - 2"
+          }
+        },
+        {
+          "type": "named",
+          "data": {
+            "name": "Left L4"
+          }
+        },
+        {
+          "type": "named",
+          "data": {
+            "name": "Reset Fast"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "To Human - 2"
+          }
+        },
+        {
+          "type": "named",
+          "data": {
+            "name": "Right Human Player"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "To Coral - 3"
+          }
+        },
+        {
+          "type": "named",
+          "data": {
+            "name": "Right L4"
+          }
+        },
+        {
+          "type": "named",
+          "data": {
+            "name": "Reset Fast"
+          }
+        }
+      ]
+    }
+  },
+  "resetOdom": true,
+  "folder": null,
+  "choreoAuto": false
+}
